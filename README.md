@@ -22,7 +22,7 @@ gem install bundler
 
 - npm install
 
-#### Criar arquivo .env com:
+#### Criar arquivo .env em vr-test\frontend\ com:
 MAILOSAUR_API_KEY=SEU_API_KEY
 
 MAILOSAUR_SERVER_ID=SEU_SERVER_ID
