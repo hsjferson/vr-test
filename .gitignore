@@ -1,0 +1,56 @@
+# =========================
+# Node.js / Frontend
+# =========================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+.env
+.env.*
+dist/
+build/
+coverage/
+
+# Cypress
+cypress/videos/
+cypress/screenshots/
+cypress/downloads/
+
+# =========================
+# Ruby / Backend (Cucumber)
+# =========================
+.bundle/
+vendor/bundle/
+log/
+tmp/
+*.gem
+*.rbc
+.bundle/config
+
+# =========================
+# Sistema Operacional
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# IDEs / Editores
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# =========================
+# Arquivos sensíveis
+# =========================
+*.pem
+*.key
+*.crt
+
+# =========================
+# Outros
+# =========================
+*.log
+coverage/
